@@ -3,7 +3,7 @@ This repository contains an easy-to-use Python function for the SPOT prediction 
 
 
 ## Downloading data folder
-Before you can run the ESP prediction function, you need to [download and unzip a data folder from Zenodo](https://doi.org/10.5281/zenodo.8046233). Afterwards, this repository should have the following strcuture:
+Before you can run the ESP prediction function, you need to [download and unzip a data folder from Zenodo](https://doi.org/10.5281/zenodo.14045647). Afterwards, this repository should have the following strcuture:
 
     ├── code                   
     ├── data                    
